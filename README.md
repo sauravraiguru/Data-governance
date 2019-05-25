@@ -6,4 +6,6 @@ Data and Analytics Workshop
 
 1. Create IBM Cloud Account at https://cloud.ibm.com
 2. Go to https://cloud.ibm.com/catalog
-and create 'Watson Studio' and 'Watson Knowledge Catalog' service.
+    Create 'Watson Studio' service.
+    Create 'Watson Knowledge Catalog' service.
+    Create 'IBM Cloud Object Storage' service.
