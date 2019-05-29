@@ -9,3 +9,4 @@ Data and Analytics Workshop
     Create 'Watson Studio' service.
     Create 'Watson Knowledge Catalog' service.
     Create 'IBM Cloud Object Storage' service.
+3. Download the file 'Data Governance & Refinery.docx' file and follow it.
